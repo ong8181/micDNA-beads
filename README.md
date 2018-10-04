@@ -1,4 +1,5 @@
-# Shell and R scripts for Ushio (2018) bioRxiv "Use of a filter cartridge combined with bead beating improves detection of microbial DNA from water samples"
+# Shell and R scripts for Ushio (2018) bioRxiv
+Citation: Ushio (2018) "Use of a filter cartridge combined with bead beating improves detection of microbial DNA from water samples" bioRxiv
 
 # Liscence
 This code is released under the MIT License, see LICENSE.
