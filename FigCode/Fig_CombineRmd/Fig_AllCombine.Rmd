@@ -1,0 +1,63 @@
+---
+title: ""
+author: "Masayuki Ushio"
+date: "3/6/2019"
+output:
+  pdf_document:
+    fig_caption: yes
+header-includes:
+   - \usepackage{caption}
+   - \captionsetup[figure]{labelformat=empty}
+   - \pagestyle{empty}
+   - \pagenumbering{gobble} #### to delete page number
+#   - \captionsetup[figure]{name=Figure S,labelsep = period}
+---
+
+<center>
+
+![
+**Figure 1**| Experimental design of this study. Four research sites (a lake, river, pond and sea) and three DNA extraction methods (Beads, NoBeads, PowerSoil) were examined. Five replications and one field negative control were included for each treatment. After sequencing, bcl2fastq, Claidnet, DADA2 and phyloseq were used to analyze data (see Methods for details).
+](../0_RawFigs/RefmtFigs/Fig_illustration_edv2.pdf)
+
+</center>
+
+\clearpage
+
+![
+**Figure 2**| The relationships between sequence reads and the copy numbers of standard DNAs. (**a**) Examples of the relationships between sequence reads and the copy numbers of standard DNAs. The linear regressions with the maximum, median and minimum slopes of the first MiSeq run are shown. (**b**) Distribution of $R^2$ values of the linear regression for the first and second MiSeq runs.
+](../0_RawFigs/RefmtFigs/Fig_STD.pdf)
+
+
+
+<center>
+
+![
+**Figure 3**| Total prokaryotic DNA copy numbers and the number of ASVs for each treatment. (**a**) Total prokaryotic DNA copy numbers calculated by summing the estimated DNA copy numbers of all prokaryotic ASVs. (**b**) The number of all ASVs. (**c**) The number of repeatedly detected ASVs. Different letters indicate significant differences between treatments (*P* < 0.05).
+](../0_RawFigs/RefmtFigs/Fig_Div.pdf)
+
+</center>
+
+
+<center>
+
+![
+**Figure 4**| Barplot of detected prokaryotic phyla. Different colours indicate different prokaryotic phyla. For the definition of “method-specific ASV”, see the main text.
+](../0_RawFigs/RefmtFigs/Fig_Bar.pdf)
+
+</center>
+
+<center>
+
+![
+**Figure 5**| Nonmetric dimensional scaling (NMDS) of the prokaryotic community composition. Only repeatedly detected ASVs were used. NMDS for (**a**) lake, (**b**) river, (**c**) pond and (**d**) sea samples. “*P*” indicates the significance of the difference among methods on the overall community composition. “Stress” indicates the stress value for each NMDS.
+](../0_RawFigs/RefmtFigs/Fig_NMDS1.pdf)
+
+</center>
+
+<center>
+
+![
+**Figure 6**| Barplot of method-specific ASVs. Different colours indicate different prokaryotic phyla specific to each DNA extraction method.
+](../0_RawFigs/RefmtFigs/Fig_Rare.pdf)
+
+</center>
