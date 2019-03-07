@@ -1,0 +1,71 @@
+---
+title: ""
+author: "Masayuki Ushio"
+date: "3/7/2019"
+output:
+  pdf_document:
+    fig_caption: yes
+header-includes:
+   - \usepackage{caption}
+   - \captionsetup[figure]{labelformat=empty}
+   - \pagestyle{empty}
+   - \pagenumbering{gobble} #### to delete page number
+#   - \captionsetup[figure]{name=Figure S,labelsep = period}
+---
+
+<center>
+
+![
+**Figure 1**| Images of Sterivex\texttrademark\ filter cartridge and zirconia beads. (**a**) Sterivex cartridge filter without zirconia beads. (**b**) Sterivex filter cartridge with inlet/outlet caps (inlet, Luer Fitting VRMP6; outlet, Luer Fitting VRSP6). (**c**) Enlarged image of $\phi$ 0.5 mm zirconia beads. (**d**) Sterivex\texttrademark\ filter cartridge with a rolled filter paper (ADVANTEC, 5A 90 mm). (**e**) A hand-made scoop. The scoop is used to add/measure 1 g of zirconia beads. (**f**) RNAlater solution was removed using QIAvac system (Qiagen, Hilden, Germany) before DNA extraction. (**g**) The lysate was transferred into a new 2-ml tube from the inlet of the filter cartridge by centrifugation. A capless 2-ml tube was lightly attached by a clean tape to the outlet of the cartridge before the centrifugation.
+](../0_RawFigs/RefmtFigs/Fig_BeadsPic.pdf){width=80%}
+
+</center>
+
+<center>
+
+![
+**Figure 2**| Experimental design of this study. Four research sites (a lake, river, pond and sea) and three DNA extraction methods (Beads, NoBeads, PowerSoil) were examined. Five replications and one field negative control were included for each treatment. After sequencing, bcl2fastq, Claidnet, DADA2 and phyloseq were used to analyze data (see Methods for details).
+](../0_RawFigs/RefmtFigs/Fig_illustration.pdf)
+
+</center>
+
+\clearpage
+
+![
+**Figure 3**| The relationships between sequence reads and the copy numbers of standard DNAs. (**a**) Examples of the relationships between sequence reads and the copy numbers of standard DNAs. The linear regressions with the maximum, median and minimum slopes of the first MiSeq run are shown. (**b**) Distribution of $R^2$ values of the linear regression for the first and second MiSeq runs.
+](../0_RawFigs/RefmtFigs/Fig_STD.pdf)
+
+
+
+<center>
+
+![
+**Figure 4**| Total prokaryotic DNA copy numbers and the number of ASVs for each treatment. (**a**) Total prokaryotic DNA copy numbers calculated by summing the estimated DNA copy numbers of all prokaryotic ASVs. (**b**) The number of all ASVs. (**c**) The number of repeatedly detected ASVs. Different letters indicate significant differences between treatments (*P* < 0.05).
+](../0_RawFigs/RefmtFigs/Fig_Div.pdf)
+
+</center>
+
+
+<center>
+
+![
+**Figure 5**| Barplot of detected prokaryotic phyla. Different colours indicate different prokaryotic phyla. For the definition of “method-specific ASV”, see the main text.
+](../0_RawFigs/RefmtFigs/Fig_Bar.pdf)
+
+</center>
+
+<center>
+
+![
+**Figure 6**| Nonmetric dimensional scaling (NMDS) of the prokaryotic community composition. Only repeatedly detected ASVs were used. NMDS for (**a**) lake, (**b**) river, (**c**) pond and (**d**) sea samples. “*P*” indicates the significance of the difference among methods on the overall community composition. “Stress” indicates the stress value for each NMDS.
+](../0_RawFigs/RefmtFigs/Fig_NMDS1.pdf)
+
+</center>
+
+<center>
+
+![
+**Figure 7**| Barplot of method-specific ASVs. Different colours indicate different prokaryotic phyla specific to each DNA extraction method.
+](../0_RawFigs/RefmtFigs/Fig_Rare.pdf)
+
+</center>
