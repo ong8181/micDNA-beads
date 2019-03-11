@@ -9,7 +9,7 @@
 # Impotant notes
 # Sourcing this file will run the analyses and produce the figures for the paper.
 # If you want to run all analyses including No. 00 (bcl2fastq and Claident demultiplex), you need raw MiSeq data files. Please contact ong8181@gmail.com.
-# If you want to run analyses from No.01, you need fastq files registered in DRA. Please download sequence files (DRA Submission ID:DRA006959).
+# If you want to run analyses from No.01, you need fastq files registered in DRA. Please download sequence files (DRA BioProject ID: PRJDB7110).
 # Please not that Running scripts No.00, 01_1 and 01_2 may take time.
 
 # Run all scripts
