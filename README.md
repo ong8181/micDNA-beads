@@ -13,6 +13,9 @@ For the visualization: ggplot2 2.3.1, cowplot 0.9.4, reshape2 1.4.3, ggsci 2.9
 For details, please see "00_SessionInfo_original" folder.
 
 # Sequence data availability
-Sequence data associated with this scripts are available in DDBJ Sequence Read Archive (DRA). Accession numbers are as follows:
+Sequence data associated with this scripts are available in DDBJ Sequence Read Archive (DRA).
+
+Accession numbers are as follows:
+
 BioProject ID = PRJDB7110
 BioSample ID = SAMD00127558-SAMD00127597 (1st run) and SAMD00163348-SAMD00163387 (2nd run)
