@@ -18,4 +18,5 @@ Sequence data associated with this scripts are available in DDBJ Sequence Read A
 Accession numbers are as follows:
 
 BioProject ID = PRJDB7110
+
 BioSample ID = SAMD00127558-SAMD00127597 (1st run) and SAMD00163348-SAMD00163387 (2nd run)
