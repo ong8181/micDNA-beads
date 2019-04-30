@@ -9,21 +9,24 @@ bioRxiv version: Ushio (2018) "Use of a filter cartridge combined with intra-car
 This code is released under the MIT License, see LICENSE.
 
 # Software and package versions
-## 1. For the sequence processing:
+### 1. For the sequence processing:
 Claident 0.2.2018.05.29, Blast 2.8.1, R 3.5.2, Rcpp 1.0.0, dada2 1.10.1, ShortRead 1.40.1, tidyverse 1.2.1
 
-## 2. For the statistical analyses:
+### 2. For the statistical analyses:
 phyloseq 1.26.1
 
-## 3. For the visualization:
+### 3. For the visualization:
 ggplot2 2.3.1, cowplot 0.9.4, reshape2 1.4.3, ggsci 2.9
 
 For details, please see "00_SessionInfo_original" folder.
 
 # Installation
 Claident: https://www.claident.org/
+
 R: https://www.r-project.org/
+
 DADA2: https://benjjneb.github.io/dada2/
+
 phyloseq: https://joey711.github.io/phyloseq/
 
 # Sequence data availability
