@@ -1,8 +1,8 @@
 ####
-#### Script for Ushio (2018)
+#### Script for Ushio (2019) Methods in Ecology and Evolution
 #### "Use of a filter cartridge combined with intra-cartridge bead beating improves detection of microbial DNA from water samples"
 ####
-#### 2019.4.16 Ushio
+#### 2019.4.30 Ushio
 ####
 
 ## Sequence data
