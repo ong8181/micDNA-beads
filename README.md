@@ -1,6 +1,8 @@
 # Shell and R scripts for Ushio (in press) _Methods in Ecology and Evolution_
 The scripts are to reproduce results and figures in Ushio (in press) _Methods in Ecology and Evolution_.
+
 Published version: Ushio (in press) "Use of a filter cartridge combined with intra-cartridge bead beating improves detection of microbial DNA from water samples" _Methods in Ecology and Evolution_
+
 bioRxiv version: Ushio (2018) "Use of a filter cartridge combined with intra-cartridge bead beating improves detection of microbial DNA from water samples" _bioRxiv_ 10.1101/435305 https://doi.org/10.1101/435305
 
 # Liscence
@@ -23,5 +25,7 @@ BioProject ID = PRJDB7110
 BioSample ID = SAMD00127558-SAMD00127597 (1st run) and SAMD00163348-SAMD00163387 (2nd run)
 
 Direct links to DNA sequences:
+
 1st MiSeq run, https://ddbj.nig.ac.jp/DRASearch/submission?acc=DRA006959
+
 2nd MiSeq run, https://ddbj.nig.ac.jp/DRASearch/submission?acc=DRA008110
