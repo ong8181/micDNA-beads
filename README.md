@@ -1,7 +1,7 @@
 # Shell and R scripts for Ushio (in press) _Methods in Ecology and Evolution_
-The scripts are to reproduce results and figures in Ushio (in press) _Methods in Ecology and Evolution_.
+The scripts are to reproduce results and figures in Ushio (in press) _Methods in Ecology and Evolution_ https://doi.org/10.1111/2041-210X.13204.
 
-Published version: Ushio (in press) "Use of a filter cartridge combined with intra-cartridge bead beating improves detection of microbial DNA from water samples" _Methods in Ecology and Evolution_
+Published version: Ushio (in press) "Use of a filter cartridge combined with intra-cartridge bead beating improves detection of microbial DNA from water samples" _Methods in Ecology and Evolution_ https://doi.org/10.1111/2041-210X.13204
 
 bioRxiv version: Ushio (2018) "Use of a filter cartridge combined with intra-cartridge bead beating improves detection of microbial DNA from water samples" _bioRxiv_ 10.1101/435305 https://doi.org/10.1101/435305
 
