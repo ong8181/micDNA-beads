@@ -8,6 +8,9 @@ bioRxiv version: Ushio (2018) "Use of a filter cartridge combined with intra-car
 # Liscence
 This code is released under the MIT License, see LICENSE.
 
+# Impotant notes
+If you want to run all analyses including No. 00 (bcl2fastq and Claident demultiplex), you need raw MiSeq data files. Please contact ong8181@gmail.com. If you want to run the analyses from No.01, you need fastq files registered in DRA. Please download sequence files (see sequence data availability below). Please note that Running scripts No.00, 01_1 and 01_2 may take time.
+
 # Software and package versions
 ### 1. For the sequence processing:
 Claident 0.2.2018.05.29, Blast 2.8.1, R 3.5.2, Rcpp 1.0.0, dada2 1.10.1, ShortRead 1.40.1, tidyverse 1.2.1
