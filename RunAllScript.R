@@ -1,8 +1,9 @@
 ####
-#### R script for Ushio (2018)
-#### "Use of a filter cartridge combined with intra-cartridge bead beating improves detection of microbial DNA from water samples"
+#### R script for Ushio (2019)
+#### "Use of a filter cartridge combined with intra-cartridge bead-beating improves detection of microbial DNA from water samples"
 #### 2018.6.22 Masayuki Ushio
 #### 2019.2.27 revised, Masayuki Ushio
+#### 2019.5.24 revised, Masayuki Ushio
 #### R 3.5.2
 ####
 
