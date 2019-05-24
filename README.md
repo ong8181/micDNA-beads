@@ -23,7 +23,7 @@ ggplot2 2.3.1, cowplot 0.9.4, reshape2 1.4.3, ggsci 2.9
 
 For details, please see "00_SessionInfo_original" folder.
 
-# Installation
+# Installations of core softwares
 Claident: https://www.claident.org/
 
 R: https://www.r-project.org/
