@@ -1,3 +1,0 @@
-####
-#### This is a dummy file.
-#### Session information will be saved in this folder if you run the analyses.
