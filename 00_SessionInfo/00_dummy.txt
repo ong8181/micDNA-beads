@@ -1,0 +1,3 @@
+####
+#### This is a dummy file.
+#### Session infomation will be saved in this folder if you run the scripts.
